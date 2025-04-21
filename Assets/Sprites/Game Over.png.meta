@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f19c688b888f20248b198ac4a89a4d27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3393106910731004190
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_0"
+  - first:
+      213: 2636589225040190334
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_1"
+  - first:
+      213: 1303143516344600773
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_2"
+  - first:
+      213: -2151946280796557081
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_3"
+  - first:
+      213: -7430798594047312229
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_4"
+  - first:
+      213: 1777103690599716107
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_5"
+  - first:
+      213: -5280950432681115720
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_6"
+  - first:
+      213: 4537799936691679042
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_7"
+  - first:
+      213: 67816010371727097
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_8"
+  - first:
+      213: 5058847169982259491
+    second: "\u2014Pngtree\u2014game over glitch effect vector_6014314_9"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_0"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 107
+        width: 1481
+        height: 1327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e694fcfd3349e0d0800000000000000
+      internalID: -3393106910731004190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_1"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1426
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b94215eeb079420800000000000000
+      internalID: 2636589225040190334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_2"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1392
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8c21faf12b51210800000000000000
+      internalID: 1303143516344600773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_3"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1344
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0f5655240c222e0800000000000000
+      internalID: -2151946280796557081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_4"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 85
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e765c7c0080e890800000000000000
+      internalID: -7430798594047312229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_5"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 86
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b055b3f146a89a810800000000000000
+      internalID: 1777103690599716107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_6"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 105
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb897af8b46b6b0800000000000000
+      internalID: -5280950432681115720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_7"
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 78
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f2c48000189fe30800000000000000
+      internalID: 4537799936691679042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_8"
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 62
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe7a485d4ee0f000800000000000000
+      internalID: 67816010371727097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game over glitch effect vector_6014314_9"
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 62
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32168cbb2b2a43640800000000000000
+      internalID: 5058847169982259491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_0": -3393106910731004190
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_1": 2636589225040190334
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_2": 1303143516344600773
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_3": -2151946280796557081
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_4": -7430798594047312229
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_5": 1777103690599716107
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_6": -5280950432681115720
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_7": 4537799936691679042
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_8": 67816010371727097
+      "\u2014Pngtree\u2014game over glitch effect vector_6014314_9": 5058847169982259491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
