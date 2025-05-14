@@ -58,9 +58,9 @@ public class PlayerInformation : MonoBehaviour
         PlayerHpUpgradeButton.onClick.AddListener(OnPlayerHpUpgradeButtonClick);
         PlayerAtkUpgradeButton.onClick.AddListener(OnPlayerAtkUpgradeButtonClick);
         PlayerCriticalUpgradeButton.onClick.AddListener(OnPlayerCriticalUpgradeButtonClick);
-        PlayerCriticalDamageUpgradeButton.onClick.AddListener (OnPlayerCriticalDamageUpgradeButtonClick);
+        PlayerCriticalDamageUpgradeButton.onClick.AddListener(OnPlayerCriticalDamageUpgradeButtonClick);
 
-        // ResetState();  // 플레이어 능력치 초기화
+        //ResetState();  // 플레이어 능력치 초기화
     }
 
     // 매 프레임마다 실행되는 업데이트 함수

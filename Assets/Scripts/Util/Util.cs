@@ -6,7 +6,7 @@ public class Util
     // GameObject에서 특정 타입의 컴포넌트를 가져오거나, 없으면 추가하는 메서드
     public static T GetOrAddComponent<T>(GameObject obj) where T : Component
     {
-        // GameObject에서 T 타입의 컴포넌트를 가져옴
+        // GameObject에서 T 타입의 컴포넌트를 가져온다.
         T component = obj.GetComponent<T>();
 
         // 컴포넌트가 없으면 추가

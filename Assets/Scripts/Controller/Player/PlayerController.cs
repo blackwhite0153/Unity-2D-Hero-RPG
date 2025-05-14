@@ -240,16 +240,22 @@ public class PlayerController : BaseController
 
             if (_attackCombo == 0 && _attackTimer <= 0.0f)
             {
+                AudioManager.Instance.PlaySFX("Sword");
+
                 _animator.SetTrigger(Define.Attack1);
                 _attackCombo = 1;
             }
             else if (_attackCombo == 1 && _comboTimer > 0.0f && _attackTimer <= 0.0f)
             {
+                AudioManager.Instance.PlaySFX("Sword");
+
                 _animator.SetTrigger(Define.Attack2);
                 _attackCombo = 2;
             }
             else if (_attackCombo == 2 && _comboTimer > 0.0f && _attackTimer <= 0.0f)
             {
+                AudioManager.Instance.PlaySFX("Sword");
+
                 _animator.SetTrigger(Define.Attack3);
                 _attackCombo = 0;
             }
@@ -280,6 +286,11 @@ public class PlayerController : BaseController
             _animator.SetBool(Define.IsIdleBlockHash, false);
             Invoke("UnBlock", 0.2f);
         }
+    }
+
+    private void UnBlock()
+    {
+        _isBlock = false;
     }
 
     private IEnumerator CoDamaged()
@@ -352,11 +363,6 @@ public class PlayerController : BaseController
             _isJump = true;
             _isGround = false;
         }
-    }
-
-    private void UnBlock()
-    {
-        _isBlock = false;
     }
 
     private void ConstrainPosition()

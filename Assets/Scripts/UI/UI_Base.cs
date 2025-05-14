@@ -27,11 +27,11 @@ public class UI_Base : MonoBehaviour
             canvas.overrideSorting = true;
         }
 
-        // 현재 GameObjec에 CanvasScaler 컴포넌트를 가져오거나 없으면 추가
+        // 현재 GameObject에 CanvasScaler 컴포넌트를 가져오거나 없으면 추가
         CanvasScaler canvasScaler = gameObject.GetOrAddComponent<CanvasScaler>();
-        // UI Scalse Mode를 Scale With Screen Size로 설정
+        // UI Scale Mode를 Scale With Screen Size로 설정
         canvasScaler.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
-        // Reference Resolution을 (1920x1080) 크기로 설정
-        canvasScaler.referenceResolution = new Vector2(1920, 1080);
+        // Reference Resolution을 720p (1280 x 720) 크기로 설정
+        canvasScaler.referenceResolution = new Vector2(1280.0f, 720.0f);
     }
 }

@@ -215,6 +215,8 @@ public class EnemyController : BaseController
                                                               _boxCollider2D.offset.x : -_boxCollider2D.offset.x,
                                                               _boxCollider2D.offset.y);
 
+            AudioManager.Instance.PlaySFX("Sword");
+
             _animator.SetBool(Define.IsAttackModeHash, _isAttack ? false : true);
             if (!_animator.GetBool(Define.IsAttackModeHash)) _animator.SetTrigger(Define.Attack);
 
